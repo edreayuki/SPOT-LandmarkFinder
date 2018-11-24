@@ -1,3 +1,60 @@
 <resources>
-    <string name="app_name">Project</string>
+    <string name="app_name">SPOT</string>
+
+    <string name="LRT_1">LRT Line 1</string>
+    <string name="LRT_2">LRT Line 2</string>
+    <string name="MRT">MRT Line 3</string>
+    <string name="PNR">PNR</string>
+
+    <string name="R1">Route: North Avenue - Taft</string>
+    <string name="R2">Route: Santolan - Recto</string>
+    <string name="R3">Route: Roosevelt - Baclaran</string>
+    <string name="R4">Route: Santolan - Recto</string>
+
+    <string name="North_Avenue">North Avenue</string>
+    <string name="Quezon_Avenue">Quezon Avenue</string>
+    <string name="GMA_Kamuning">GMA-Kamuning</string>
+    <string name="Araneta_Cubao">Araneta-Cubao</string>
+    <string name="Santolan_Annapolis">Santolan-Annapolis</string>
+    <string name="Ortigas">Ortigas</string>
+    <string name="Shaw_Boulevard">Shaw Boulevard</string>
+    <string name="Boni_Avenue">Boni Avenue</string>
+    <string name="Guadalupe">Guadalupe</string>
+    <string name="Buendia">Buendia</string>
+    <string name="Ayala">Ayala</string>
+    <string name="Magallanes">Magallanes</string>
+    <string name="Taft">Taft</string>
+
+    <string name="Santolan">Santolan</string>
+    <string name="Katipunan">Katipunan</string>
+    <string name="Anonas">Anonas</string>
+    <string name="AranetaCenter_Cubao">Araneta Center - Cubao</string>
+    <string name="Betty_Go_Belmonte">Betty Go-Belmonte</string>
+    <string name="Gilmore">Gilmore</string>
+    <string name="J_Ruiz">J_Ruiz</string>
+    <string name="V_Mapa">V. Mapa</string>
+    <string name="Pureza">Pureza</string>
+    <string name="Legarda">Legarda</string>
+    <string name="Recto">Recto</string>
+
+    <string name="Roosevelt">Roosevelt</string>
+    <string name="Balintawak">Balintawak</string>
+    <string name="Monumento">Monumento</string>
+    <string name="fifth_Avenue">5th Avenue</string>
+    <string name="Abad_Santos">Abad Santos</string>
+    <string name="Blumentritt">Blumentritt</string>
+    <string name="Tayuman">Tayuman</string>
+    <string name="Bambang">Bambang</string>
+    <string name="Doroteo_Jose">Doroteo Jose</string>
+    <string name="Carriedo">Carriedo</string>
+    <string name="Central_Terminal">Central Terminal</string>
+    <string name="United_Nations">United Nations</string>
+    <string name="Pedro_Gil">Pedro Gil</string>
+    <string name="Quirino">Quirino</string>
+    <string name="Vito_Cruz">Vito Cruz</string>
+    <string name="Gil_Puyat">Gil Puyat</string>
+    <string name="Libertad">Libertad</string>
+    <string name="EDSA">EDSA</string>
+    <string name="Baclaran">Baclaran</string>
+
 </resources>

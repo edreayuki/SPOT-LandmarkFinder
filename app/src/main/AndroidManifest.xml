@@ -16,7 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".act2"></activity>
+        <activity android:name=".MrtCode"></activity>
+        <activity android:name=".Lrt1Code"></activity>
+        <activity android:name=".Lrt2Code"></activity>
     </application>
 
 </manifest>
