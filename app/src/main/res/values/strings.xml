@@ -6,10 +6,10 @@
     <string name="MRT">MRT Line 3</string>
     <string name="PNR">PNR</string>
 
-    <string name="R1">Route: North Avenue - Taft</string>
+    <string name="R1">Route: Roosevelt - Baclaran</string>
     <string name="R2">Route: Santolan - Recto</string>
-    <string name="R3">Route: Roosevelt - Baclaran</string>
-    <string name="R4">Route: Santolan - Recto</string>
+    <string name="R3">Route: North Avenue - Taft</string>
+    <string name="R4">Route: Tutuban - Calamba</string>
 
     <string name="North_Avenue">North Avenue</string>
     <string name="Quezon_Avenue">Quezon Avenue</string>
@@ -31,7 +31,7 @@
     <string name="AranetaCenter_Cubao">Araneta Center - Cubao</string>
     <string name="Betty_Go_Belmonte">Betty Go-Belmonte</string>
     <string name="Gilmore">Gilmore</string>
-    <string name="J_Ruiz">J_Ruiz</string>
+    <string name="J_Ruiz">J. Ruiz</string>
     <string name="V_Mapa">V. Mapa</string>
     <string name="Pureza">Pureza</string>
     <string name="Legarda">Legarda</string>
@@ -41,6 +41,7 @@
     <string name="Balintawak">Balintawak</string>
     <string name="Monumento">Monumento</string>
     <string name="fifth_Avenue">5th Avenue</string>
+    <string name="R_Papa">R. Papa</string>
     <string name="Abad_Santos">Abad Santos</string>
     <string name="Blumentritt">Blumentritt</string>
     <string name="Tayuman">Tayuman</string>
@@ -57,4 +58,30 @@
     <string name="EDSA">EDSA</string>
     <string name="Baclaran">Baclaran</string>
 
+    <string name="Tutuban">Tutuban</string>
+    <string name="PNR_Blumentritt">Blumentritt</string>
+    <string name="Laong_Laan">Laong Laan</string>
+    <string name="Espana">España</string>
+    <string name="Sta_Mesa">Sta. Mesa</string>
+    <string name="Pandacan">Pandacan</string>
+    <string name="Paco">Paco</string>
+    <string name="San_Andres">San Andres</string>
+    <string name="PNR_Vito_Cruz">Vito Cruz</string>
+    <string name="PNR_Buendia">Buendia</string>
+    <string name="Pasay_Road">Pasay Road</string>
+    <string name="PNR_EDSA">EDSA</string>
+    <string name="Nichols">Nichols</string>
+    <string name="FTI">FTI</string>
+    <string name="Bicutan">Bicutan</string>
+    <string name="Sucat">Sucat</string>
+    <string name="Alabang">Alabang</string>
+    <string name="Muntinlupa">Muntinlupa</string>
+    <string name="San_Pedro">San Pedro</string>
+    <string name="Pacita">Pacita Main Gate</string>
+    <string name="Golden_City">Golden City 1</string>
+    <string name="Binan">Biñan</string>
+    <string name="Sta_Rosa">Sta. Rosa</string>
+    <string name="Cabuyao">Cabuyao</string>
+    <string name="Mamatid">Mamatid</string>
+    <string name="Calamba">Calamba</string>
 </resources>

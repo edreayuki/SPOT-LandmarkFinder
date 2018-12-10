@@ -25,7 +25,7 @@
                 android:layout_height="match_parent">
 
                 <android.support.v7.widget.CardView
-                    android:id="@+id/pnr"
+                    android:id="@+id/mrt"
                     android:layout_width="0dp"
                     android:layout_height="190dp"
                     android:layout_margin="10dp"
@@ -39,7 +39,7 @@
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toBottomOf="@+id/lrt2"
-                    android:onClick="pnr_screen">
+                    android:onClick="mrt3_screen">
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -78,7 +78,7 @@
                 </android.support.v7.widget.CardView>
 
                 <android.support.v7.widget.CardView
-                    android:id="@+id/mrt3"
+                    android:id="@+id/pnr"
                     android:layout_width="0dp"
                     android:layout_height="190dp"
                     android:layout_margin="10dp"
@@ -89,10 +89,10 @@
                     android:layout_marginRight="8dp"
                     android:clickable="true"
                     android:foreground="?android:attr/selectableItemBackground"
+                    android:onClick="pnr_screen"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toBottomOf="@+id/pnr"
-                    android:onClick="mrt3_screen">
+                    app:layout_constraintTop_toBottomOf="@+id/mrt">
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -124,7 +124,7 @@
                             android:layout_height="wrap_content"
                             android:gravity="center"
                             android:padding="5dp"
-                            android:text="Check your bank activities"
+                            android:text="@string/R4"
                             android:textColor="@android:color/darker_gray" />
 
                     </LinearLayout>
